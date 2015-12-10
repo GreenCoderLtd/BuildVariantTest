@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.payanywhere.buildvarianttest"
+        applicationId "com.greencoder.buildvarianttest"
         minSdkVersion 17
         targetSdkVersion 23
         versionCode 1

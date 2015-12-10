@@ -1,4 +1,4 @@
-package com.payanywhere.buildvarianttest;
+package com.greencoder.buildvarianttest;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

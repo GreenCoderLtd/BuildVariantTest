@@ -1,7 +1,8 @@
-package com.payanywhere.buildvarianttest;
+package com.greencoder.buildvarianttest;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
 
 public class SecondActivity extends AppCompatActivity {
 
